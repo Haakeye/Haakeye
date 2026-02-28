@@ -1,5 +1,9 @@
 # Hi, I'm Haarish 👋
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+
 🚀 Data Scientist | AI Engineer
 📍 Chennai, India
 
