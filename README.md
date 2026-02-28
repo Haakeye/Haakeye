@@ -1,37 +1,86 @@
 # Hi, I'm Haarish 👋
 
-🚀 Data Scientist | AI Engineer  
-📍 Chennai, India  
+🚀 Data Scientist | AI Engineer
+📍 Chennai, India
 
 ---
 
-## 💻 Skills
+## 💡 About Me
 
-- Python, Java
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- Power BI
+* Passionate about building AI-powered applications
+* Experience in Machine Learning, NLP, and Computer Vision
+* Interested in solving real-world problems using data
+* Currently working on AI, Data Science, and Full-Stack projects
+
+---
+
+## 🛠️ Skills
+
+### Programming
+
+* Python
+* Java
+
+### Data Science & AI
+
+* Machine Learning
+* Deep Learning
+* NLP
+* Computer Vision
+
+### Tools & Technologies
+
+* TensorFlow / PyTorch
+* Scikit-learn
+* Power BI
+* MySQL
+* Git & GitHub
 
 ---
 
 ## 🚀 Projects
 
-### QR Product Authentication System
-Full-stack system using Android, Java SOAP APIs, and MySQL for detecting counterfeit products.
+### 🔹 QR-Based Product Authentication System
 
-### Voice AI Agent
-Multilingual voice assistant using AI models and APIs.
+* Built a full-stack system using Android, Java, and MySQL
+* Implemented QR code verification for counterfeit detection
+* Developed SOAP-based APIs for communication
 
-### Human Activity Recognition
-ML model to classify human activities using sensor data.
-
-### Flight Delay Prediction
-Predict delays using machine learning models.
+👉 https://github.com/Haakeye/qr-product-authentication-system
 
 ---
 
-## 📌 GitHub
+### 🔹 Voice AI Assistant
 
-https://github.com/Haakeye
+* Built multilingual voice agent
+* Integrated speech recognition and AI responses
+
+---
+
+### 🔹 Human Activity Recognition
+
+* Used ML models to classify human activities
+* Worked with real-world sensor datasets
+
+---
+
+### 🔹 Flight Delay Prediction
+
+* Built predictive model for airline delays
+* Used regression and classification techniques
+
+---
+
+## 📊 GitHub Stats
+
+![Haarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haakeye\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/Haakeye
+
+---
+
+⭐ If you like my projects, feel free to explore and star them!
