@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Haarish 👋
 
-<!--
-**Haakeye/Haakeye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Scientist | AI Engineer  
+📍 Chennai, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+- Python, Java
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Power BI
+
+---
+
+## 🚀 Projects
+
+### QR Product Authentication System
+Full-stack system using Android, Java SOAP APIs, and MySQL for detecting counterfeit products.
+
+### Voice AI Agent
+Multilingual voice assistant using AI models and APIs.
+
+### Human Activity Recognition
+ML model to classify human activities using sensor data.
+
+### Flight Delay Prediction
+Predict delays using machine learning models.
+
+---
+
+## 📌 GitHub
+
+https://github.com/Haakeye
