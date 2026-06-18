@@ -76,6 +76,9 @@
 
 * Built predictive model for airline delays
 * Used regression and classification techniques
+* Processed aviation datasets using Big Data methodologies
+
+👉 https://github.com/Haakeye/Flight-Delay-Prediction
 
 ---
 
