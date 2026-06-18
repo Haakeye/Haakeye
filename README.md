@@ -2,6 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-0078D4?style=for-the-badge&logo=Power%20Apps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=Power%20Automate&logoColor=white)
 
 🚀 Data Scientist | AI Engineer
 📍 Chennai, India
@@ -35,7 +38,9 @@
 
 * TensorFlow / PyTorch
 * Scikit-learn
-* Power BI
+* Power BI / DAX Dashboards
+* Power Apps
+* Power Automate
 * MySQL
 * Git & GitHub
 
