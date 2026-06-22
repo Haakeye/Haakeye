@@ -7,7 +7,7 @@
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=Power%20Automate&logoColor=white)
 
 🚀 Data Scientist | AI Engineer
-📍 Chennai, India
+
 
 ---
 
